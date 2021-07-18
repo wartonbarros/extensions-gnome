@@ -1,1 +1,9 @@
-
+{
+    "uuid": "poweroff@shell.gnome.org",
+    "name": "poweroff",
+    "description": "This is an example extension.",
+    "version": 1,
+    "shell-version": [ "3.38", "40" ],
+    "url": "https://gitlab.gnome.org/World/ShellExtensions/example"
+}
+Esses
