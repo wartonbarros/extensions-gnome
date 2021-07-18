@@ -1,9 +1,8 @@
 {
     "uuid": "poweroff@shell.gnome.org",
     "name": "poweroff",
-    "description": "This is an example extension.",
-    "version": 1,
+    "description": "extensão para adicionar botão de desligar.",
+    "version": 1.0,
     "shell-version": [ "3.38", "40" ],
-    "url": "https://gitlab.gnome.org/World/ShellExtensions/example"
+    "url": "https://github.com/wartonbarros/extensions-gnome"
 }
-Esses
